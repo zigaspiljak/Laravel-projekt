@@ -1,0 +1,28 @@
+.login_forum {
+    margin: 170px auto !important;
+    display: inline-block;
+    text-align: center;
+    width: 500px;
+    border: 1px solid transparent;
+    border-radius: 5px;
+    color: rgba(var(--primary-text-color), 1);
+}
+
+.form-group {
+    padding: 5px;
+    color: var(--primary-text-color);
+}
+
+.form-group>label {
+    display: inline-block;
+}
+
+.button-form {
+    text-align: center;
+}
+
+
+.inner-forum {
+    padding:0px !important;
+    display: block;
+}
